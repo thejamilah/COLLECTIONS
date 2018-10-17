@@ -1,6 +1,6 @@
 # Lab-7-Collections
 
-## .NET C# Educational Lab Assignment - Build Zoo
+## .NET C# Educational Lab Assignment - Deck of Cards
 
 ## Learning
 
