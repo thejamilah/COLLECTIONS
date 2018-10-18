@@ -9,11 +9,17 @@ namespace Lab07_DeckOfCards
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            
+                        
         }
 
+        static void HouseOfCards()
+        {
+
+        }
 
     }
+
+       
 }
 
 
