@@ -14,7 +14,6 @@ namespace Lab07_DeckOfCards
 
         static void HouseOfCards()
         {
-
         }
 
     }
