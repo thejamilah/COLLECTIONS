@@ -1,8 +1,6 @@
-# Lab-7-Collections
+# .NET Core C# Collections
 
-## .NET C# Educational Lab Assignment - Deck of Cards
-
-## Learning
+## Learning Objectives
 
 ### What to Know Regading Properties and Methods
 
